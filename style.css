@@ -1,0 +1,23 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+    background:linear-gradient(60deg, #36d0ff, #2fafd6, #268cab, #1d677d, #144554);
+
+}
+h3{
+font-size:25px !important;
+margin:0;
+width:100%;
+}
+div{
+   position:fixed;
+   width:100%;
+   bottom:0;
+   line-height: 3; 
+   font-size:23;
+}
+
+canvas{
+    border: lightgrey 5px solid;
+border-radius: 10px;
+
+}
